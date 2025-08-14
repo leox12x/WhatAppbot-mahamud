@@ -23,7 +23,7 @@
   },
   "database": {
     "type": "mongodb",
-    "uri": "mongodb+srv://mahmudabdullax7:ttnRAhj81JikbEw8@cluster0.zwknjau.mongodb.net/whatsapp-bot?retryWrites=true&w=majority&appName=Cluster0",
+    "uri": "mongodb+srv://m:ttnRAhj81Jik@cluster0.zwknjau.mongodb.net/GoatBotV2?retryWrites=true&w=majority&appName=Cluster0",
     "path": "./data/database.json",
     "autoSync": true
   },
